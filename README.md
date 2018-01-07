@@ -28,7 +28,9 @@
 ![screenshot from 2018-01-07 12-49-52](https://user-images.githubusercontent.com/35188729/34650287-c35ecfac-f3cf-11e7-88f1-dbc4e0a836b3.png)
 
 12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى المشروع بشكل كامل ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **classpath 'com.google.gms:google-services:3.1.0'**
+
 ![screenshot from 2018-01-07 17-42-51](https://user-images.githubusercontent.com/35188729/34650445-7c8ae112-f3d2-11e7-9140-65c6c27a3270.png)
+
 
 12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى التطبيق ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **apply plugin: 'com.google.gms.google-services'**
 
