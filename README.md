@@ -21,19 +21,16 @@
 ![screenshot from 2018-01-07 12-31-23](https://user-images.githubusercontent.com/35188729/34649571-f0c21952-f3c2-11e7-8c8b-1245287dd3fe.png)
 
 10- قم بتحميل ملف **json** </br>
-بالضغط على **Download google-services.json** </br>
+بالضغط على **Download google-services.json** </br>  الصورة التالية توضح محتويات الملف
+</br>
+![screen shot 2018-01-07 at 6 1](https://user-images.githubusercontent.com/35188729/34650810-ee9f88ac-f3d7-11e7-9405-f51fbb29dbbb.png)
+
 
 11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف **json** </br>
 ضمن الملفات الخاصة بالتطبيق
-![screenshot from 2018-01-07 12-49-52](https://user-images.githubusercontent.com/35188729/34650287-c35ecfac-f3cf-11e7-88f1-dbc4e0a836b3.png)
 
-12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى المشروع بشكل كامل ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **classpath 'com.google.gms:google-services:3.1.0'**
-
-![screenshot from 2018-01-07 17-42-51](https://user-images.githubusercontent.com/35188729/34650445-7c8ae112-f3d2-11e7-9140-65c6c27a3270.png)
+<img width="329" alt="screen shot 2018-01-07 at 6 02 31 pm" src="https://user-images.githubusercontent.com/35188729/34650733-e4af66f6-f3d6-11e7-9646-e0568f5e7876.png">
 
 
-12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى التطبيق ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **apply plugin: 'com.google.gms.google-services'** </br> ثم مزامنة التغييرات بالضغط على **Sync now**
-
-![screenshot from 2018-01-07 17-42-37](https://user-images.githubusercontent.com/35188729/34650443-731fc106-f3d2-11e7-957b-777dedaab532.png)
 
 
