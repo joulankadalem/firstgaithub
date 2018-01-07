@@ -1,16 +1,27 @@
 1- الدخول للرابط التالي: https://firebase.google.com/ </br>
 2- الضغط على "GET STARTED" </br>
 3- قم بإنشاء مشروع جديد بالضغط على "Add project" </br>
+![screenshot from 2018-01-07 12-12-18](https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png)
+
 4- قم بإدخال اسم المشروع الخاص بك في خانة "Project Name" </br>
 5- اختيار الدولة من قائمة "Country/region" </br>
 6- الضغط على "CREATE PROJECT" </br>
-بهذه الخطوات نكون قد أنشأنا مشروع Firebase بنجاح</br>
-والآن لربط المشروع بتطبيق الاندرويد نقوم باتباع الخطوات التالية: </br>
+![screenshot from 2018-01-07 12-12-59 1](https://user-images.githubusercontent.com/35188729/34649477-3b497a08-f3c1-11e7-8aa0-dd4fdafc79e1.png)
+
+## بهذه الخطوات نكون قد أنشأنا مشروع Firebase بنجاح</br>
+## والآن لربط المشروع بتطبيق الاندرويد نقوم باتباع الخطوات التالية: </br>
+
 7- الضغط على "Add Firebase to your Android app" </br>
+![screenshot from 2018-01-07 12-24-56](https://user-images.githubusercontent.com/35188729/34649566-b1c64c50-f3c2-11e7-8d71-e154dcd21554.png)
+
 8- قم بنسخ اسم الباكج من ملف المانيفست بالاندرويد ثم إدخاله في خانة "Android package name" </br>
-9- قم بتحميل ملف "json" بالضغط على "Download google-services.json" </br>
-10- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف "json" ضمن الملفات الخاصة بالتطبيق
-11- 
+9- الضغط على "REGISTER APP"
+![screenshot from 2018-01-07 12-31-23](https://user-images.githubusercontent.com/35188729/34649571-f0c21952-f3c2-11e7-8c8b-1245287dd3fe.png)
+
+10- قم بتحميل ملف "json" </br>
+بالضغط على "Download google-services.json" </br>
+11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف "json" ضمن الملفات الخاصة بالتطبيق
+![screenshot from 2018-01-07 12-51-14](https://user-images.githubusercontent.com/35188729/34649678-d683fb58-f3c4-11e7-8e38-966e85317e67.png)
 
 
 
