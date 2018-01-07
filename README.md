@@ -20,9 +20,12 @@
 
 10- قم بتحميل ملف "json" </br>
 بالضغط على "Download google-services.json" </br>
+
+11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف "json" 
+ضمن الملفات الخاصة بالتطبيق
 ![screenshot from 2018-01-07 12-49-52](https://user-images.githubusercontent.com/35188729/34650287-c35ecfac-f3cf-11e7-88f1-dbc4e0a836b3.png)
 
-11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف "json" ضمن الملفات الخاصة بالتطبيق
+
 ![screenshot from 2018-01-07 12-51-14](https://user-images.githubusercontent.com/35188729/34649678-d683fb58-f3c4-11e7-8e38-966e85317e67.png)
 
 
