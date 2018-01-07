@@ -32,5 +32,5 @@
 <img width="329" alt="screen shot 2018-01-07 at 6 02 31 pm" src="https://user-images.githubusercontent.com/35188729/34650733-e4af66f6-f3d6-11e7-9646-e0568f5e7876.png">
 
 
-
+12- الضغط على **CONTINUE** </br> ثم **FINISH** </br>
 
