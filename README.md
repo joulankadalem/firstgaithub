@@ -32,7 +32,7 @@
 ![screenshot from 2018-01-07 17-42-51](https://user-images.githubusercontent.com/35188729/34650445-7c8ae112-f3d2-11e7-9140-65c6c27a3270.png)
 
 
-12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى التطبيق ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **apply plugin: 'com.google.gms.google-services'**
+12- في الاندرويد ستوديو قم بفتح الملف **build.gradle**</br> على مستوى التطبيق ثم قم بنسخ هذا الأمر كما هو موضع في الصورة</br>  **apply plugin: 'com.google.gms.google-services'** </br> ثم مزامنة التغييرات بالضغط على **Sync now**
 
 ![screenshot from 2018-01-07 17-42-37](https://user-images.githubusercontent.com/35188729/34650443-731fc106-f3d2-11e7-957b-777dedaab532.png)
 
