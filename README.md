@@ -2,11 +2,9 @@
    
 <p align="center">
     <img width="100" height="auto" src="logo.png" alt="Nebras Logo" />
+   <img width="100" height="auto" src="otlb_logo.png" alt="Nebras Logo" />
 </p>
-<p align="center">
-    <img width="100" height="auto" src="otlb_logo.png" alt="Nebras Logo" />
-</p>
-   
+
 
 **خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
