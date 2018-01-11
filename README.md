@@ -2,7 +2,7 @@
 
 **خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
-* [Firebase new project](#Firebase-new-project)
+* [Firebase new project](#Firebase new project)
 * [Features](#features)
 
 ## Firebase new project
