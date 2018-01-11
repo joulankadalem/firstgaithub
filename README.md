@@ -26,7 +26,8 @@
 4- قم بإدخال اسم المشروع الخاص بك في خانة **Project Name** </br>
 5- اختيار الدولة من قائمة **Country/region** </br>
 6- الضغط على **CREATE PROJECT** </br>
-[![screenshot from 2018-01-07 12-12-59 1](https://user-images.githubusercontent.com/35188729/34649477-3b497a08-f3c1-11e7-8aa0-dd4fdafc79e1.png)]
+ <img align="center" height="auto" src="![screenshot from 2018-01-07 12-12-59 1](https://user-images.githubusercontent.com/35188729/34649477-3b497a08-f3c1-11e7-8aa0-dd4fdafc79e1.png)" alt="Nebras Logo" />
+
 
 #### بهذه الخطوات نكون قد أنشأنا مشروع</br> Firebase بنجاح</br>
 #### والآن لربط المشروع بتطبيق الاندرويد نقوم باتباع الخطوات التالية: </br>
