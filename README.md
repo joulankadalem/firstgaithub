@@ -5,7 +5,7 @@
 * [Firebase new project](#system-requirements)
 * [Features](#features)
 
-Firebase new project
+## Firebase new project
 
 1- الدخول للرابط التالي: https://firebase.google.com/ </br>
 2- الضغط على **GET STARTED** </br>
