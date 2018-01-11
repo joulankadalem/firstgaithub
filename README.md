@@ -1,7 +1,7 @@
 
    
 <p align="center">
-    <img width="100" height="auto" src="logo.png" alt="Nebras Logo" />
+    <img width="100" height="auto" src="logo.png" alt="Nebras Logo" /> &nsbp &nsbp
    <img width="100" height="auto" src="otlb_logo.png" alt="Nebras Logo" />
 </p>
 
