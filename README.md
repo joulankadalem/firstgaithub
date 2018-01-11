@@ -20,8 +20,9 @@
 1- الدخول للرابط التالي: https://firebase.google.com/ </br>
 2- الضغط على **GET STARTED** </br>
 3- قم بإنشاء مشروع جديد بالضغط على **Add project** </br>
+<p align="center">
 ![screenshot from 2018-01-07 12-12-18](https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png)
-
+</p>
 4- قم بإدخال اسم المشروع الخاص بك في خانة **Project Name** </br>
 5- اختيار الدولة من قائمة **Country/region** </br>
 6- الضغط على **CREATE PROJECT** </br>
