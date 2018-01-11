@@ -1,7 +1,7 @@
 
    
 <p align="center">
-    <img width="500" height="auto" src="!https://www.nebrasapps.com/images/logo.png" alt="PHP Censor" />
+    <img width="500" height="auto" src="!https://www.nebrasapps.com/images/logo.png" alt="Nebras Logo" />
 </p>
    
 
