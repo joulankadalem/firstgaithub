@@ -8,10 +8,6 @@
 
 
   # OTLB APP
-  
-  
-
-//**خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
 * [Firebase new project](#firebase-new-project)
 * [Link firebase project with your android app](#link-firebase-project-with-your-android-app)
