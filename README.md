@@ -17,8 +17,7 @@
 
 ## Firebase new project
 
-### Step #1: 
-الدخول للرابط التالي: https://firebase.google.com/ </br>
+
 1- الدخول للرابط التالي: https://firebase.google.com/ </br>
 2- الضغط على **GET STARTED** </br>
 3- قم بإنشاء مشروع جديد بالضغط على **Add project** </br>
