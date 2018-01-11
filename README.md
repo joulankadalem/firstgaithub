@@ -3,7 +3,7 @@
 **خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
 * [Firebase new project](#firebase-new-project)
-* [Features](#features)
+* [Link firebase project with your android app](#link-firebase-project-with-your-android-app)
 
 ## Firebase new project
 
@@ -19,6 +19,8 @@
 
 #### بهذه الخطوات نكون قد أنشأنا مشروع</br> Firebase بنجاح</br>
 #### والآن لربط المشروع بتطبيق الاندرويد نقوم باتباع الخطوات التالية: </br>
+
+## Link firebase project with your android app
 
 7- الضغط على **Add Firebase to your Android app** </br>
 ![screenshot from 2018-01-07 12-24-56](https://user-images.githubusercontent.com/35188729/34649566-b1c64c50-f3c2-11e7-8d71-e154dcd21554.png)
