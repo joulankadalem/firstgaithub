@@ -2,10 +2,10 @@
 
 **خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
-* [System requirements](#system-requirements)
+* [Firebase new project](#Firebase-new-project)
 * [Features](#features)
 
-## System requirements
+## Firebase new project
 
 1- الدخول للرابط التالي: https://firebase.google.com/ </br>
 2- الضغط على **GET STARTED** </br>
