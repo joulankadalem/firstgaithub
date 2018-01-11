@@ -66,7 +66,7 @@
 9- الضغط على **REGISTER APP** </br></br>
 ![screenshot from 2018-01-07 12-31-23](https://user-images.githubusercontent.com/35188729/34649571-f0c21952-f3c2-11e7-8c8b-1245287dd3fe.png)
 </br></br>
-10- قم بتحميل ملف **json** </br></br>
+10- قم بتحميل ملف **json** </br>
 بالضغط على **Download google-services.json** </br>  الصورة التالية توضح محتويات الملف
 </br></br>
 ![screen shot 2018-01-07 at 6 1](https://user-images.githubusercontent.com/35188729/34650810-ee9f88ac-f3d7-11e7-9405-f51fbb29dbbb.png)
