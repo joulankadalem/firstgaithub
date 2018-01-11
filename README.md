@@ -6,13 +6,13 @@
    <img width="100" height="auto" src="otlb_logo.png" alt="heart" />
 </p>
 
-
+</br></br>
   # OTLB APP
 
 * [Firebase new project](#firebase-new-project)
 * [Link firebase project with your android app](#link-firebase-project-with-your-android-app)
 
-
+</br></br>
 
 
 ## Firebase new project
