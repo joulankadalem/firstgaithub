@@ -30,8 +30,14 @@
 
 </br></br>
 ## Installation
-1- من برنامج الاندرويد ستوديو: File -> Open
-2- من القائمة يتم اختيار تطبيق "Otlb"
+
+1- تفضيل المشروع بالضغط على "Star"
+2- تنزيل المشروع بالضغط على خيار "Download" </br>
+3- من برنامج الاندرويد ستوديو: File -> Open
+![tooltip_002 3 1](https://user-images.githubusercontent.com/35188729/34837646-79e1b80e-f70c-11e7-820c-b76facd56bd4.png)
+</br></br>
+4- من القائمة يتم اختيار تطبيق "Otlb"
+![screenshot from 2018-01-11 19-31-06](https://user-images.githubusercontent.com/35188729/34837755-dc75b74a-f70c-11e7-99c5-9c4cd01a6b90.png)
 
 </br></br>
 ## Firebase new project
