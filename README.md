@@ -30,7 +30,8 @@
 
 </br></br>
 ## Installation
-
+1- من برنامج الاندرويد ستوديو: File -> Open
+2- من القائمة يتم اختيار تطبيق "Otlb"
 
 </br></br>
 ## Firebase new project
