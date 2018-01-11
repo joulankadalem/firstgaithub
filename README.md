@@ -1,4 +1,9 @@
 
+   
+<p align="center">
+    <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />
+</p>
+   
 
 **خطوات إنشاء مشروع فايربيس جديد وربطه بتطبيق الاندرويد**
 
