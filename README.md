@@ -1,7 +1,8 @@
 
    
 <p align="center">
-    <img width="500" height="auto" src="docs/images/php-censor-black.png" alt="PHP Censor" />
+    <img width="500" height="auto" src="![logo](https://user-images.githubusercontent.com/35188729/34826254-e8bd7126-f6e6-11e7-94f8-3631404d72c0.png)
+" alt="PHP Censor" />
 </p>
    
 
