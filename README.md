@@ -124,4 +124,8 @@
 <img width="80" height="80" src="https://www.nebrasapps.com/images/works/bulby/bulby.png"/>&nbsp 
 <img width="80" height="80" src="https://www.nebrasapps.com/images/works/BitsJobs/BitsJobs.png"/>
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/CHC/CHC.png"/>
+    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Travel4Arab/Travel4Arab.png"/>
+   <img width="80" height="80" src="https://www.nebrasapps.com/images/works/TechCampus/TechCampus.png"/>
+    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/TrucksGO/TrucksGO.png"/>
+   <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Hag/Hag.png"/>
    </p>
