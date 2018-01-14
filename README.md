@@ -97,7 +97,7 @@
 </p>
 
 
-6-  الضغط على CONTINUE ثم **FINISH** </br>
+6-  الضغط على CONTINUE </br> ثم **FINISH** </br>
 </br></br>
 
 ## About Nebras
