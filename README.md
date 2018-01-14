@@ -63,7 +63,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png"></p>
 </br></br>
-4- قم بإدخال اسم المشروع الخاص بك في خانة **Project Name** </br></br>
+4- قم بإدخال اسم المشروع الخاص بك في خانة Project Name </br></br>
 5- اختيار الدولة من قائمة Country/region </br></br>
 6- الضغط على CREATE PROJECT </br></br>
 <p align="center">
