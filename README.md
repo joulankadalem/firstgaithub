@@ -86,6 +86,9 @@
 12- الضغط على **CONTINUE** </br> ثم **FINISH** </br>
 </br></br>
 
+12- الضغط على **CONTINUE** </br> ثم **FINISH** </br>
+
+
 ## About Nebras
 
 
