@@ -1,4 +1,3 @@
-
    
 <p align="center">
     <img width="100" height="auto" src="logo.png" alt="Nebras Logo" />  &nbsp
@@ -19,26 +18,38 @@
 
 
 ## What's OTLB
+<b>
 تطبيق مجاني مقدم من شركة نبراس يعمل كوسيط بين العميل ومقدم الخدمة، يوفر 14 خدمة تغطي مختلف مجالات عمل مقدمي الخدمات في الوقت نفسه تناسب احتياجات العميل.
-</br></br>
+</b></br></br>
+
 ## Features
+<b>
 - تطبيق موحد للعميل ومقدم الخدمة
+<br>
 - توفير 14 خدمة مختلفة
+<br>
 - البحث عن أقرب مقدم خدمة متوفر
+<br>
 - سجل لتخزين الخدمات السابقة
+<br>
 - إمكانية اختيار الخدمات والتعديل عليها
+<br>
 - إمكانية تفعيل وضع العمل أو تعطيله بالنسبة لمقدم الخدمة
-
+</b>
 </br></br>
-## Installation
 
+
+## Installation
+<b>
 1- تفضيل المشروع بالضغط على "Star"</br></br>
 2- تنزيل المشروع بالضغط على خيار "Download" </br></br>
 3- من برنامج الاندرويد ستوديو: File -> Open </br></br>
-![tooltip_002 3 1](https://user-images.githubusercontent.com/35188729/34837646-79e1b80e-f70c-11e7-820c-b76facd56bd4.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/35188729/34837646-79e1b80e-f70c-11e7-820c-b76facd56bd4.png"></p>
 </br></br></br>
 4- من القائمة يتم اختيار تطبيق "Otlb" </br></br>
-![screenshot from 2018-01-11 19-31-06](https://user-images.githubusercontent.com/35188729/34837755-dc75b74a-f70c-11e7-99c5-9c4cd01a6b90.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/35188729/34837755-dc75b74a-f70c-11e7-99c5-9c4cd01a6b90.png"></p>
 </br></br></br>
 ## Firebase new project
 
@@ -47,7 +58,8 @@
 2- الضغط على **GET STARTED** </br></br>
 3- قم بإنشاء مشروع جديد بالضغط على **Add project** </br></br>
 
-![screenshot from 2018-01-07 12-12-18](https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png"></p>
 </br></br>
 4- قم بإدخال اسم المشروع الخاص بك في خانة **Project Name** </br></br>
 5- اختيار الدولة من قائمة **Country/region** </br></br>
@@ -80,13 +92,13 @@
 
 
 
-12- الضغط على **CONTINUE** </br> ثم **FINISH** </br>
+12-<p style="direction:rtl;"> الضغط على CONTINUE </p></br> ثم **FINISH** </br>
 </br></br>
 
 ## About Nebras
 
 
-<p align="center">
+<p align="right">
   <b></b>
 <img src="https://www.nebrasapps.com/images/bg.png" />
 </br></br>
