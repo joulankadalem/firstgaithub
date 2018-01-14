@@ -85,7 +85,7 @@
 ## About Nebras
 
 
-<p align="center">
+<p align="left">
   <b></b>
 <img src="https://www.nebrasapps.com/images/bg.png" /></p>
 
