@@ -102,7 +102,7 @@
 
    
 <p align="center">
-   <a href=“https://nebrasapps.com“>
+   
     <img width="80" height="80" src="https://www.nebrasapps.com/images/works/bulby/bulby.png"/>  &nbsp
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/BitsJobs/BitsJobs.png" /> &nbsp
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/CHC/CHC.png" /> &nbsp
@@ -118,24 +118,7 @@
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Men/Men.png" /> &nbsp
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Hadaj/hadaj.png" />
    </br></br>
-   </a>
+   <a href=“https://nebrasapps.com“></a>
    </p>
 
-<p align="center">
 
-[![Nebras](https://www.nebrasapps.com/github/bulby.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/BitsJobs.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/CHC.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/Travel4Arab.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/TechCampus.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/TrucksGO.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/Hag.png)](https://nebrasapps.com)
-</br>
-[![Nebras](https://www.nebrasapps.com/github/CallDriver.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/CallTech.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/TrusteApp.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/SnapJobs.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/MsCare.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/Men.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/hadaj.png)](https://nebrasapps.com)
- </p>
