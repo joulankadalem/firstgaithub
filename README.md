@@ -64,7 +64,7 @@
 <img src="https://user-images.githubusercontent.com/35188729/34649468-028f5d36-f3c1-11e7-8237-07dc4fe96971.png"></p>
 </br></br>
 4- قم بإدخال اسم المشروع الخاص بك في خانة **Project Name** </br></br>
-5- اختيار الدولة من قائمة **Country/region** </br></br>
+5- اختيار الدولة من قائمة Country/region </br></br>
 6- الضغط على CREATE PROJECT </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649477-3b497a08-f3c1-11e7-8aa0-dd4fdafc79e1.png"></p>
@@ -75,7 +75,7 @@
 
 ## Link firebase project with your android app
 
-7- الضغط على **Add Firebase to your Android app** </br></br>
+7- الضغط على Add Firebase to your Android app </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649566-b1c64c50-f3c2-11e7-8d71-e154dcd21554.png"></p>
 </br></br>
@@ -90,7 +90,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34650810-ee9f88ac-f3d7-11e7-9405-f51fbb29dbbb.png"></p>
 </br></br>
-11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف **json** </br>
+11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف json </br>
 ضمن الملفات الخاصة بالتطبيق
 <p align="center">
 <img width="329" alt="screen shot 2018-01-07 at 6 02 31 pm" src="https://user-images.githubusercontent.com/35188729/34650733-e4af66f6-f3d6-11e7-9646-e0568f5e7876.png">
