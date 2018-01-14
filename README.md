@@ -79,8 +79,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649566-b1c64c50-f3c2-11e7-8d71-e154dcd21554.png"></p>
 </br></br>
-8- قم بنسخ اسم الباكج من ملف المانيفست بالاندرويد ثم إدخاله في خانة **Android package name** </br></br>
-9- الضغط على **REGISTER APP** </br></br>
+8- قم بنسخ اسم الباكج من ملف المانيفست بالاندرويد ثم إدخاله في خانة Android package name </br></br>
+9- الضغط على REGISTER APP </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649571-f0c21952-f3c2-11e7-8c8b-1245287dd3fe.png"></p>
 </br></br>
