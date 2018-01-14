@@ -100,8 +100,8 @@
 
    
 <p align="center">
-    <img src="https://www.nebrasapps.com/images/works/bulby/bulby.png"/>  &nbsp
-   <img src="https://www.nebrasapps.com/images/works/BitsJobs/BitsJobs.png" /> &nbsp
-   <img src="https://www.nebrasapps.com/images/works/TechCampus/TechCampus.png" />
+    <img width="80" height="auto" src="https://www.nebrasapps.com/images/works/bulby/bulby.png"/>  &nbsp
+   <img width="80" src="https://www.nebrasapps.com/images/works/BitsJobs/BitsJobs.png" /> &nbsp
+   <img width="80" src="https://www.nebrasapps.com/images/works/TechCampus/TechCampus.png" />
 </p>
 
