@@ -147,8 +147,4 @@
 </br>
 [![Nebras](https://www.nebrasapps.com/github/CallDriver.png)](https://nebrasapps.com)
 [![Nebras](https://www.nebrasapps.com/github/CallTech.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/TrusteApp.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/SnapJobs.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/MsCare.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/Men.png)](https://nebrasapps.com)
-[![Nebras](https://www.nebrasapps.com/github/hadaj.png)](https://nebrasapps.com)
+
