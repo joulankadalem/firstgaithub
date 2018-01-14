@@ -119,6 +119,7 @@
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Hadaj/hadaj.png" />
    </br></br>
    </a>
+   </p>
    [![Nebras](https://www.nebrasapps.com/github/bulby.png)](https://nebrasapps.com)
 [![Nebras](https://www.nebrasapps.com/github/BitsJobs.png)](https://nebrasapps.com)
 [![Nebras](https://www.nebrasapps.com/github/CHC.png)](https://nebrasapps.com)
@@ -134,5 +135,5 @@
 [![Nebras](https://www.nebrasapps.com/github/Men.png)](https://nebrasapps.com)
 [![Nebras](https://www.nebrasapps.com/github/hadaj.png)](https://nebrasapps.com)
 
-</p>
+
 
