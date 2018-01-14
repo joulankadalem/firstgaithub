@@ -75,29 +75,29 @@
 
 ## Link firebase project with your android app
 
-7- الضغط على Add Firebase to your Android app </br></br>
+1- الضغط على Add Firebase to your Android app </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649566-b1c64c50-f3c2-11e7-8d71-e154dcd21554.png"></p>
 </br></br>
-8- قم بنسخ اسم الباكج من ملف المانيفست بالاندرويد ثم إدخاله في خانة Android package name </br></br>
-9- الضغط على REGISTER APP </br></br>
+2- قم بنسخ اسم الباكج من ملف المانيفست بالاندرويد ثم إدخاله في خانة Android package name </br></br>
+3- الضغط على REGISTER APP </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34649571-f0c21952-f3c2-11e7-8c8b-1245287dd3fe.png"></p>
 </br></br>
-10- قم بتحميل ملف json </br>
+4- قم بتحميل ملف json </br>
 بالضغط على Download google-services.json </br>  الصورة التالية توضح محتويات الملف
 </br></br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35188729/34650810-ee9f88ac-f3d7-11e7-9405-f51fbb29dbbb.png"></p>
 </br></br>
-11- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف json </br>
+5- العودة للتطبيق في الاندرويد ستوديو ثم نسخ الملف json </br>
 ضمن الملفات الخاصة بالتطبيق
 <p align="center">
 <img width="329" alt="screen shot 2018-01-07 at 6 02 31 pm" src="https://user-images.githubusercontent.com/35188729/34650733-e4af66f6-f3d6-11e7-9646-e0568f5e7876.png">
 </p>
 
 
-12- <p style="direction:rtl;"> الضغط على CONTINUE </p> ثم **FINISH** </br>
+6-  الضغط على CONTINUE ثم **FINISH** </br>
 </br></br>
 
 ## About Nebras
