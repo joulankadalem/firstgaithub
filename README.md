@@ -1,8 +1,7 @@
    
 <p align="center">
-    <img width="100" height="auto" src="logo.png" alt="Nebras Logo" />  &nbsp
-   <img width="40" height="auto" src="heart2.png" alt="Nebras Logo" /> &nbsp
-   <img width="100" height="auto" src="otlb_logo.png" alt="heart" />
+    <img width="100" height="auto" src="https://nebrasapps.com/github/otlb.png" alt="Nebras Logo" />  
+  
 </p>
 
 </br></br>
