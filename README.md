@@ -97,7 +97,7 @@
 </p>
 
 
-12-<p style="direction:rtl;"> الضغط على CONTINUE </p></br> ثم **FINISH** </br>
+12- <p style="direction:rtl;"> الضغط على CONTINUE </p> ثم **FINISH** </br>
 </br></br>
 
 ## About Nebras
