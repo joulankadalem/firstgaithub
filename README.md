@@ -1,6 +1,6 @@
    
 <p align="center">
-    <img width="200" height="auto" src="https://nebrasapps.com/github/otlb.png" alt="Nebras Logo" />  
+    <img width="400" height="auto" src="https://nebrasapps.com/github/otlb.png" alt="Nebras Logo" />  
   
 </p>
 
