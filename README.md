@@ -119,4 +119,4 @@
    <img width="80" height="80" src="https://www.nebrasapps.com/images/works/Hadaj/hadaj.png"/>
    </br></br>
    </p>
-https://www.nebrasapps.com/
+www.nebrasapps.com
